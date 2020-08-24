@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "955763246387",
+    "firebase_url": "https://interactive-reading.firebaseio.com",
+    "project_id": "interactive-reading",
+    "storage_bucket": "interactive-reading.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955763246387:android:7e42f80a030e66682f6a46",
+        "android_client_info": {
+          "package_name": "com.hkurbardovic.interactivereading"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "955763246387-cgotm90pmomam3moud42jd6mk13n0joh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hkurbardovic.interactivereading",
+            "certificate_hash": "2d0980ec80de6a8d4038e8c9696a7749406188a4"
+          }
+        },
+        {
+          "client_id": "955763246387-en8eot0s8tpb0t53c3kmmkqqn7vb5d4t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVfZNtXLUR1GTFtHSCQuSSBsYYED8aE9k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "955763246387-en8eot0s8tpb0t53c3kmmkqqn7vb5d4t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

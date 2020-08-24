@@ -1,0 +1,419 @@
+{
+  "books": [
+    {
+      "id": "abe_the_service_dog",
+      "name": "Abe the service dog",
+      "pages": [
+        {
+          "imageStorageLocation": "images/abe_the_service_dog_0.png",
+          "audioStorageLocation": "audio/abe_the_service_dog_0.mp3",
+          "localImageStorageLocation": "abe_the_service_dog_0.png",
+          "localAudioStorageLocation": "abe_the_service_dog_0.mp3",
+          "clickableObjects": [
+            {
+              "id": "dog",
+              "name": "Dog",
+              "audioStorageLocation": "audio/dog.mp3",
+              "coordinates": [
+                169,
+                281,
+                213,
+                263,
+                316,
+                264,
+                433,
+                249,
+                456,
+                216,
+                446,
+                193,
+                464,
+                156,
+                506,
+                141,
+                537,
+                156,
+                569,
+                180,
+                568,
+                224,
+                550,
+                237,
+                544,
+                337,
+                536,
+                371,
+                550,
+                427,
+                522,
+                424,
+                506,
+                375,
+                505,
+                415,
+                517,
+                432,
+                483,
+                436,
+                448,
+                365,
+                408,
+                379,
+                353,
+                354,
+                331,
+                391,
+                348,
+                424,
+                319,
+                426,
+                307,
+                382,
+                294,
+                380,
+                303,
+                415,
+                307,
+                433,
+                276,
+                429,
+                264,
+                359,
+                258,
+                329,
+                212,
+                322
+              ]
+            },
+            {
+              "id": "tree",
+              "name": "Tree",
+              "audioStorageLocation": "audio/tree.mp3",
+              "coordinates": [
+                154,
+                315,
+                154,
+                291,
+                109,
+                280,
+                119,
+                229,
+                199,
+                235,
+                204,
+                258,
+                168,
+                291,
+                167,
+                318
+              ]
+            },
+            {
+              "id": "house",
+              "name": "House",
+              "audioStorageLocation": "audio/house.mp3",
+              "coordinates": [
+                566,
+                333,
+                570,
+                302,
+                639,
+                299,
+                634,
+                346
+              ]
+            },
+            {
+              "id": "house",
+              "name": "House",
+              "audioStorageLocation": "audio/house.mp3",
+              "coordinates": [
+                566,
+                333,
+                570,
+                302,
+                639,
+                299,
+                634,
+                346
+              ]
+            },
+            {
+              "id": "grass",
+              "name": "Grass",
+              "audioStorageLocation": "audio/grass.mp3",
+              "coordinates": [
+                28,
+                359,
+                112,
+                307,
+                568,
+                338,
+                707,
+                376,
+                658,
+                439,
+                73,
+                427
+              ]
+            },
+            {
+              "id": "cloud",
+              "name": "Cloud",
+              "audioStorageLocation": "audio/cloud.mp3",
+              "coordinates": [
+                383,
+                90,
+                462,
+                71,
+                518,
+                122,
+                465,
+                130,
+                380,
+                109
+              ]
+            }
+          ]
+        },
+        {
+          "imageStorageLocation": "images/abe_the_service_dog_1.png",
+          "audioStorageLocation": "audio/abe_the_service_dog_1.mp3",
+          "localImageStorageLocation": "abe_the_service_dog_1.png",
+          "localAudioStorageLocation": "abe_the_service_dog_1.mp3",
+          "clickableObjects": [
+            {
+              "id": "dog",
+              "name": "Dog",
+              "audioStorageLocation": "audio/dog.mp3",
+              "coordinates": [
+                169,
+                281,
+                213,
+                263,
+                316,
+                264,
+                433,
+                249,
+                456,
+                216,
+                446,
+                193,
+                464,
+                156,
+                506,
+                141,
+                537,
+                156,
+                569,
+                180,
+                568,
+                224,
+                550,
+                237,
+                544,
+                337,
+                536,
+                371,
+                550,
+                427,
+                522,
+                424,
+                506,
+                375,
+                505,
+                415,
+                517,
+                432,
+                483,
+                436,
+                448,
+                365,
+                408,
+                379,
+                353,
+                354,
+                331,
+                391,
+                348,
+                424,
+                319,
+                426,
+                307,
+                382,
+                294,
+                380,
+                303,
+                415,
+                307,
+                433,
+                276,
+                429,
+                264,
+                359,
+                258,
+                329,
+                212,
+                322
+              ]
+            },
+            {
+              "id": "tree",
+              "name": "Tree",
+              "audioStorageLocation": "audio/tree.mp3",
+              "coordinates": [
+                154,
+                315,
+                154,
+                291,
+                109,
+                280,
+                119,
+                229,
+                199,
+                235,
+                204,
+                258,
+                168,
+                291,
+                167,
+                318
+              ]
+            },
+            {
+              "id": "house",
+              "name": "House",
+              "audioStorageLocation": "audio/house.mp3",
+              "coordinates": [
+                566,
+                333,
+                570,
+                302,
+                639,
+                299,
+                634,
+                346
+              ]
+            },
+            {
+              "id": "house",
+              "name": "House",
+              "audioStorageLocation": "audio/house.mp3",
+              "coordinates": [
+                566,
+                333,
+                570,
+                302,
+                639,
+                299,
+                634,
+                346
+              ]
+            },
+            {
+              "id": "grass",
+              "name": "Grass",
+              "audioStorageLocation": "audio/grass.mp3",
+              "coordinates": [
+                28,
+                359,
+                112,
+                307,
+                568,
+                338,
+                707,
+                376,
+                658,
+                439,
+                73,
+                427
+              ]
+            },
+            {
+              "id": "cloud",
+              "name": "Cloud",
+              "audioStorageLocation": "audio/cloud.mp3",
+              "coordinates": [
+                383,
+                90,
+                462,
+                71,
+                518,
+                122,
+                465,
+                130,
+                380,
+                109
+              ]
+            },
+            {
+              "id": "cloud",
+              "name": "Cloud",
+              "audioStorageLocation": "audio/cloud.mp3",
+              "coordinates": [
+                310,
+                192,
+                359,
+                168,
+                414,
+                185,
+                417,
+                198,
+                312,
+                201
+              ]
+            },
+            {
+              "id": "hi",
+              "name": "Hi",
+              "audioStorageLocation": "audio/hi.mp3",
+              "coordinates": [
+                86,
+                70,
+                105,
+                72,
+                108,
+                85,
+                85,
+                84
+              ]
+            },
+            {
+              "id": "i",
+              "name": "I",
+              "audioStorageLocation": "audio/i.mp3",
+              "coordinates": [
+                111,
+                68,
+                125,
+                68,
+                125,
+                84,
+                111,
+                85
+              ]
+            },
+            {
+              "id": "am",
+              "name": "am",
+              "audioStorageLocation": "audio/am.mp3",
+              "coordinates": [
+                128,
+                70,
+                153,
+                70,
+                153,
+                89,
+                126,
+                86
+              ]
+            }
+          ]
+        },
+        {
+          "imageStorageLocation": "abe_the_service_dog_2.png"
+        }
+      ]
+    }
+  ]
+}

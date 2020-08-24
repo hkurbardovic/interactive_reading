@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Interactive Reading</string>
+
+    <!-- content descriptions -->
+    <string name="page_content_description">Page</string>
+
+    <string name="play_pause_content_description">Play &amp; Pause</string>
+    <string name="replay_content_description">Replay</string>
+
+    <!-- book names -->
+    <string name="hide_and_seek">HIDE-and-Seek</string>
+</resources>
